@@ -3,7 +3,7 @@ Actual release is v1.3.8.
 
 Read [change log](https://github.com/zbx-sadman/unifi_proxy/blob/master/ChangeLog.md) before update to new release.
 
-Installable package is not exist, DYI-ers must explore _/etc_ , _/usr/local_ and _/src_ dirs and get that what they need:
+Installable package is not exist, DIY-ers must explore _/etc_ , _/usr/local_ and _/src_ dirs and get that what they need:
 
 - [usr/local/sbin/unifi_proxy.pl](https://github.com/zbx-sadman/unifi_proxy/blob/master/usr/local/sbin/unifi_proxy.pl) - UniFi Proxy executable file;
 - [etc/unifi_proxy/unifi_proxy.conf](https://github.com/zbx-sadman/unifi_proxy/blob/master/etc/unifi_proxy/unifi_proxy.conf) - UniFi Proxy config file;
